@@ -1,0 +1,7 @@
+Vers = 9, HLEN = 0, Service = 0, Tot.Length = 36800
+Identif = 36804, Flag = 143, Fragment Offset = 192
+TTL = 169, Protocol = TCP, Checksum = 61376
+Source Address: 110.48.32.80
+Destin. Address: 110.49.32.80
+Option = 170, Opt.Length = 64, Pointer = 239
+Data Field: 424
